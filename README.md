@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shamika Redkar</h1>
-<h3 align="left">Versatile Developer Journey: Navigating Mobile, Full Stack, and Machine Learning frontiers</h3>
-<img align="center" alt="coding" width="800" height="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif" width="1000" height="400">](https://rishavchanda.io)
 
+<h1 align="center">Hi! I'm Shamika Redkar</h1>
+
+<h3 align="center">Versatile Developer Journey: Navigating Mobile Development, Full Stack Development, and Machine Learning frontiers</h3>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamikaredkar&label=Profile%20views&color=0e75b6&style=flat" alt="shamikaredkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamikaredkar" alt="shamikaredkar" /></a> </p>
+<img align="right" alt="coding" width="400" height="340" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamikaredkar" alt="shamikaredkar" width="600" /></a> </p>
 
 - 🌱 I’m currently learning **Supervised Machine Learning: Regression and Classification. Coursera Instructor: Andrew Ng**
 
@@ -13,6 +15,8 @@
 - 📫 How to reach me: **shamikaredkar30@gmail.com**
 
 - ⚡ Fun fact: **Did you know that the term "bug" in computing, referring to a glitch or problem in a system, was popularized after a real moth was found causing issues in a computer at Harvard University in 1947? This incident was logged as the "first actual case of bug being found."**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
