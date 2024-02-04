@@ -1,5 +1,3 @@
-[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif" width="1000" height="400">](https://rishavchanda.io)
-
 <h1 align="center">Hi! I'm Shamika Redkar</h1>
 
 <h3 align="center">Versatile Developer Journey: Navigating Mobile Development, Full Stack Development, and Machine Learning frontiers</h3>
