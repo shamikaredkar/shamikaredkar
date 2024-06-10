@@ -2,13 +2,11 @@
 
 <h3 align="center">Versatile Developer Journey: Navigating Mobile Development, Full Stack Development, and Machine Learning frontiers</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamikaredkar&label=Profile%20views&color=0e75b6&style=flat" alt="shamikaredkar" /> </p>
 <img align="right" alt="coding" width="400" height="340" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamikaredkar" alt="shamikaredkar" width="400" /></a> </p>
 
 - 🌱 I’m currently learning **Supervised Machine Learning: Regression and Classification. Coursera Instructor: Andrew Ng**
 
-- 💬 Ask me about: **Swift, React, Javascript, Java**
+- 💬 Ask me about: **Swift, React, Javascript, HTML/CSS, Python**
 
 - 📫 How to reach me: **shamikaredkar30@gmail.com**
 
