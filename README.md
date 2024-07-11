@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Shamika Redkar</h1>
+<h1 align="center">Hi! I'm Shamika Redkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Full Stack Web Developer | iOS Mobile Developer | Machine Learning Enthusiast</h3>
 
 <!--- snake -->
