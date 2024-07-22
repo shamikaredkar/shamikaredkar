@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<img align="right" alt="coding" width="400" height="340" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="coding" width="300" height="240" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🌱 Currently Reading: Atomic Habits by James Clear
 
