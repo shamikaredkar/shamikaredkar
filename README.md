@@ -21,6 +21,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shamika-redkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamika-redkar/" height="30" width="40" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamikaredkar&show_icons=true&locale=en&layout=compact" alt="shamikaredkar" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikaredkar&theme=github_dark&layout=compact&hide_border=true" /></a> 
