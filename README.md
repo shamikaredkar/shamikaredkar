@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Shamika Redkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br/> <a href="https://linkedin.com/in/shamika-redkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamika-redkar/" height="30" width="40" /></a></h1>
-<h3 align="center">Full Stack Web Developer | iOS Mobile Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Mobile Developer | Machine Learning Beginner</h3>
 
 <!--- snake -->
 <div align="center">
