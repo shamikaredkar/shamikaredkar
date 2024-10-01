@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: **Swift, React, Javascript, HTML/CSS, Python**
 
-- 📫 How to reach me: **shamikaredkar30@gmail.com**
+- 📫 How to reach me: **shamikaredkar3007@gmail.com**
 
 - ⚡ Fun fact About Me: **I used to play Badminton professionally**
   
